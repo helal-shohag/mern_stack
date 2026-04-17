@@ -13,7 +13,8 @@
   "scripts": {
     "start": "node backend/server.js",
     "dev": "SET NODE_ENV=DEVELOPMENT& nodemon backend/server",
-    "prod": "SET NODE_ENV=production& nodemon backend/server"
+    "prod": "SET NODE_ENV=production& nodemon backend/server",
+    "seeder":"node backend/utils/seeder.js"
   },
   "dependencies": {
     "dotenv": "^17.4.1",

@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Mens Cotton Casual Shirt",
+        "price":"500.00",
+        "description": "Coton tshirt casual size ara availabe",
+        "rating":"4.5",
+        "images": [{
+            "public_id":"products/",
+            "url":"cloudina/products"
+            
+        }],
+        "category":"Men",
+        "seller":"ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews": []
+    },
+
+    {
+        "name": "Mens Cotton Casual Shirt",
+        "price":"500.00",
+        "description": "Coton tshirt casual size ara availabe",
+        "rating":"4.5",
+        "images": [{
+            "public_id":"products/",
+            "url":"cloudina/products"
+            
+        }],
+        "category":"Womens",
+        "seller":"ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews": []
+    },
+    {
+        "name": "Mens Cotton Casual Shirt",
+        "price":"500.00",
+        "description": "Coton tshirt casual size ara availabe",
+        "rating":"4.5",
+        "images": [{
+            "public_id":"products/",
+            "url":"cloudina/products"
+            
+        }],
+        "category":"Kids",
+        "seller":"ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews": []
+    },
+    {
+        "name": "Mens Cotton Casual Shirt",
+        "price":"500.00",
+        "description": "Coton tshirt casual size ara availabe",
+        "rating":"4.5",
+        "images": [{
+            "public_id":"products/",
+            "url":"cloudina/products"
+            
+        }],
+        "category":"Grocery",
+        "seller":"ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews": []
+    },
+    {
+        "name": "Mens Cotton Casual Shirt",
+        "price":"500.00",
+        "description": "Coton tshirt casual size ara availabe",
+        "rating":"4.5",
+        "images": [{
+            "public_id":"products/",
+            "url":"cloudina/products"
+            
+        }],
+        "category":"Sports",
+        "seller":"ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews": []
+    },
+    {
+        "name": "Mens Cotton Casual Shirt",
+        "price":"500.00",
+        "description": "Coton tshirt casual size ara availabe",
+        "rating":"4.5",
+        "images": [{
+            "public_id":"products/",
+            "url":"cloudina/products"
+            
+        }],
+        "category":"Accessories",
+        "seller":"ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews": []
+    },
+    {
+        "name": "Mens Cotton Casual Shirt",
+        "price":"500.00",
+        "description": "Coton tshirt casual size ara availabe",
+        "rating":"4.5",
+        "images": [{
+            "public_id":"products/",
+            "url":"cloudina/products"
+            
+        }],
+        "category":"Jwellery",
+        "seller":"ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews": []
+    },
+    {
+        "name": "Mens Cotton Casual Shirt",
+        "price":"500.00",
+        "description": "Coton tshirt casual size ara availabe",
+        "rating":"4.5",
+        "images": [{
+            "public_id":"products/",
+            "url":"cloudina/products"
+            
+        }],
+        "category":"Decoration",
+        "seller":"ebay",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews": []
+    }
+    
+]
